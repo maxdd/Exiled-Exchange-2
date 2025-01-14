@@ -22,13 +22,13 @@ export default defineConfig({
     // logo: 'TODO', https://github.com/vuejs/vitepress/issues/1401
     appVersion: '0.4.3',
     github: {
-      releasesUrl: 'https://github.com/Kvan7/Exiled-Exchange-2/releases'
+      releasesUrl: 'https://github.com/maxdd/Exiled-Exchange-2/releases'
     },
     socialLinks: [
       {
         text: 'GitHub',
         color: '#181717',
-        link: 'https://github.com/Kvan7/Exiled-Exchange-2'
+        link: 'https://github.com/maxdd/Exiled-Exchange-2'
       }
     ],
     sidebar: [
